@@ -1,0 +1,502 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "rarity": "rare",
+   "category": "misc",
+   "guide": "The ultimate trophy: unlock it by earning every other trophy on the list. Knock out the story, sweep the side activities and collectibles, then mop up any stragglers — the platinum pops automatically once all 54 are yours."
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "The opening mission of the prologue — just play through Gone Fishing to the end. You'll learn the core movement and cover systems here, so take it slow if it's your first hour with the game."
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Finish every story mission in Chapter 1. The chapter-closing mission is where the two protagonists' paths first collide — push through and the trophy lands on the final cutscene."
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Work through all of Chapter 2's story missions. This chapter ramps up the heist setup — keep an eye out for optional prep work that pays off later, then finish the closing mission to collect the bronze."
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Clear every story mission in Chapter 3. The city really opens up here, but you don't need to detour yet — finish the chapter's final mission straight away and come back for side content afterward."
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Complete all Chapter 4 story missions. This is the penultimate chapter and the tone turns heavier — focus on finishing the story beats so you can unlock the endgame and open up the post-game checklist."
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Finish the game's final story mission. It unlocks after Chapter 4 — play it out to the end for the gold. Note that you can keep roaming Leonida afterward, so don't stress about missing post-game content."
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Play through the mission Breakfast Run to completion. It's an early story beat that introduces a key contact — let the mission marker on the map pull you through and the trophy fires on the exit cutscene."
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Complete the story mission The Cartel Heist. Follow the waypoint through the setup and the job itself — the trophy is awarded as soon as you clear the escape. No special approach required."
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Finish the mission Child's Play. It's a story chapter mission — simply follow the objectives and see it through to the closing scene to bank the bronze."
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Complete the mission Headliners. Progress through the chapter's objectives in order; the trophy pops at the end of the final cutscene. If you're rushing the story, this one comes naturally."
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Finish the story mission VCIA Takedown. It's a mid-story action set-piece — follow the objective markers, survive the assault and the trophy awards on mission completion."
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Complete Operation Savage Glory. This later story mission is part of the endgame push — play it through to the end for the bronze. No prerequisites beyond the story order."
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "rarity": "ultra",
+   "category": "misc",
+   "guide": "Push every completion category to its maximum: finish all story missions, all activity types, all collectible sets, all stranger strands and the world map. The slowest grind on the list — save it for last and let the checklist on the side menu show you what's left."
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "side",
+   "guide": "Land 250 stunts (jumps, drifts, near-misses and similar driving tricks). Farm them on the highway network — long straights and ramps let you chain drifts and airtime quickly. The stunt counter lives in the pause menu so you can track progress."
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "side",
+   "guide": "Sample one of every activity type the map offers — races, shooting ranges, drone races, fishing, arcade games, bowling, meditation and more. Spread your visits across a few sessions and the bronze lands once you've touched each category."
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "side",
+   "guide": "Gold every one of the 42 Shooting Range challenges. Accuracy and speed both count — upgrade your weapon handling and use steady aim before the timer starts. It's a long grind, so knock it out in focused sessions while the challenge list is fresh."
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Win one Top Fun drone race at each of the 14 race locations. Learn each course's racing line first, then commit — the drones are twitchy, so feather the throttle through tight turns and the bronze follows."
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Win 20 distinct races across Leonida's race types — street, off-road, boat and air. Mixing types breaks up the repetition; find each race's entry point on the map and keep a running count so you don't double-dip on one course."
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Take on Cal in a fishing challenge and out-fish him. The trick is reeling during the strike window rather than mashing — land your timing on a couple of good catches and the bronze is yours."
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "side",
+   "guide": "Finish any one arcade game inside an arcade cabinet. Pick the simplest-looking machine and play it through to its end screen — the bronze fires as soon as the game registers a completed run."
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Work through Andy's mission strand and finish his last job. Each contact's missions unlock in sequence on the map — clear the earlier ones first and the bronze lands when the final mission's cutscene ends."
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Complete Kenton's full mission line and his final job. These appear as contact icons as you unlock them — follow the chain to the end for the bronze. Do it while roaming so you also build the completion percentage."
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Finish Billy's mission strand through to its last job. As with the other contact lines, the final mission only appears after the earlier ones — run the chain and the trophy pops on completion."
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "side",
+   "guide": "Finish 8 of Leonida's stranger mission strands — the oddball side stories marked by question-mark icons across the map. Pick strands that look short and self-contained, and track which ones you've cleared so you hit eight without repeating."
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Run Randy's mission chain to its conclusion. His jobs unlock progressively — clear them in order and the final mission awards the bronze. If you're going for 100% anyway, these contact chains knock out two birds."
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Complete Tyrone's mission strand and his last job. Follow his contact marker through each unlock until the final mission is done — the bronze pops at the end. Bundle it with the other contact lines in one roaming session."
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "collectible",
+   "guide": "Find and meditate at all 18 meditation spots scattered around Leonida. They're small glowing markers — bring up the collectible map overlay, sweep one region at a time, and sit at each to check it off."
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Take on Bret's request to hunt a unique animal. Track the animal into the wilderness and make a clean shot — the trophy lands once the hunt is turned in. It's a one-off, so it's quick if you're already exploring the rural zones."
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "collectible",
+   "guide": "Finish three full collectible card sets. Cards are spread across shops and map pickups — use the collectible tracker to find the last few in each set, then complete three sets for the silver. Prioritize sets with the fewest missing cards."
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "collectible",
+   "guide": "Use WAiNK It at 100 distinct locations across the map. It's a check-in-style collectible — bring up the WAiNK map overlay and tick off one new spot in each area you pass through. Grinding it in a loop along a route is the fastest way."
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "side",
+   "guide": "Complete any 50 challenges from the challenges board. They're a mix of combat, driving and exploration tasks — pick the quick daily-style ones first and stack them. The bronze lands at 50 total."
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Trigger a 4-star wanted level with your partner active, then lose it. Lead the cops on a long chase away from the city, break line of sight, and keep driving until the stars clear — the trophy awards once you've escaped clean."
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Rob three shops in a row while keeping a wanted level active and your partner in tow. Chain convenience stores quickly before the heat drops — line them up along one route so you can hit three without ever going clean."
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "collectible",
+   "guide": "Discover 100 different vehicle models. Cars, bikes, boats and planes all count — switch vehicles often as you roam and check each new model into the collection. Parking lots and dealership rows are goldmines for variety."
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "rarity": "rare",
+   "category": "misc",
+   "guide": "In one activation of Combat Focus (bullet-time), take down five enemies. Lure a group into a cluster, trigger Focus, and line up quick headshots before the meter drains — position matters more than aim here."
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Leave the VCIA facility in an unscheduled way — i.e. bust out rather than walk out the front. Trigger the alarm or escape while the guards are alerted and the trophy pops once you're clear. Easiest during a related story beat."
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "rarity": "rare",
+   "category": "misc",
+   "guide": "Deal with Rhino tanks in combat — destroy or disable them while under fire. They hit hard, so use cover, hit the rear armor, and keep moving between shots. The trophy awards once the Rhinos are neutralized."
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Rob a jewelry store without tripping any alarms or being spotted. Case the layout, wait for the guards to turn, and move quietly — a single detection voids the attempt, so reset and retry if you're seen."
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "rarity": "rare",
+   "category": "misc",
+   "guide": "Crack five bank vaults and escape each time. Vaults take time to drill — plan your exit route before you start so you can flee the moment you're loaded. Spread the jobs across sessions and the silver lands on the fifth escape."
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Hit an armored truck, grab the cash and get away clean. Intercept one on its route, take out the guards, then lose the responding cops. The trophy pops once you've escaped with the take."
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "collectible",
+   "guide": "Reveal all 52 areas of the Leonida map. It's pure exploration — clear the fog by physically traveling every region, including the swamps, suburbs and downtown districts. The completion tracker shows which corners you're missing."
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Rob one illegal operation belonging to each of the 9 gangs. They're marked as hostile businesses across the map — hit one per gang, survive the response, and the trophy lands once all nine are done."
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "side",
+   "guide": "Order and enjoy a cocktail at an Ocean Beach bar with a view. Find the beachside spot, sit down, and pick a drink — the trophy awards on the cutscene. It's a two-minute detour, so tick it off while you're in the area."
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "misc",
+   "guide": "Drive a car straight through the showroom's front window to escape in style. Grab a vehicle from inside the dealership, line up on the glass, and floor it — the trophy pops on the smash-through."
+  },
+  {
+   "id": 46,
+   "name": "Let's Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "side",
+   "guide": "Play a game at the Kolt & Associates bowling alley and finish it. Head to the alley, start a round and bowl it out — the trophy awards at the end. Quick filler while you're doing side content in that district."
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Reach a milestone in your partnership's public profile — build up your duo's notoriety through shared activities and jobs. The exact trigger ties to your partner standing; keep doing two-player-style content together and it pops."
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "story",
+   "guide": "Make your way through the story's decision points — the trophy tracks a choice count toward 500 in the system. It ticks up naturally as you play through missions and dialogue options; keep progressing and it lands on its own."
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "rarity": "common",
+   "category": "misc",
+   "guide": "Succeed on a second attempt at something — fail a task once, then clear it on the retry. Any quick mission or challenge where you can intentionally bungle the first try and nail the second will do. Easy to pair with another trophy run."
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "rarity": "rare",
+   "category": "collectible",
+   "guide": "Witness one of Leonida's strange/inexplicable events — the hidden UFO-style oddities scattered around the map. These are easy to miss; check known hotspot areas at the right times of day and the trophy pops when you see one."
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Knock a pedestrian down with a melee attack from a moving vehicle — a drive-by punch, not a shooting kill. Aim for a lone target on the sidewalk, swing as you pass, and the trophy lands on the hit."
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Launder $250,000 worth of marked bills through your laundering contacts. Marked bills come from robberies and dirty jobs — bank them up and feed them through the launderer in chunks until the total crosses $250k."
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Spend a cumulative $100,000 across Leonida's shops — clothing, weapons, upgrades and the like. Buying upgrades and gear you'd want anyway is the smoothest path; track the running total so you know when you're close."
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Buy every garage property on the map — all 8. Save up across your jobs and buy them one by one; each purchase is a fixed price, so budget ahead and the bronze drops on the eighth. Doubles as extra vehicle storage."
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "rarity": "uncommon",
+   "category": "misc",
+   "guide": "Register 10 vehicles in the Scooter Bros in-game app. Open the phone app, add vehicles you own or have discovered, and repeat until the count hits ten — the trophy fires on the tenth registration."
+  }
+ ]
+}
