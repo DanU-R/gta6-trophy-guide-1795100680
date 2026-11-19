@@ -1,0 +1,6 @@
+[
+  { "file": "1-overview.jpg", "path": "/?shot=overview&seed=2", "viewport": { "width": 1440, "height": 900 } },
+  { "file": "2-roadmap.jpg", "path": "/?shot=roadmap&seed=3", "viewport": { "width": 1440, "height": 900 } },
+  { "file": "3-trophies.jpg", "path": "/?shot=trophies&seed=4", "viewport": { "width": 1440, "height": 900 } },
+  { "file": "4-progress.jpg", "path": "/?shot=progress&seed=5", "viewport": { "width": 1440, "height": 900 } }
+]
