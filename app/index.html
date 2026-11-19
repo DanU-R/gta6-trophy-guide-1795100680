@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vice Guide — GTA VI Trophy Guide</title>
+<meta name="description" content="The definitive GTA VI trophy guide: a road to the platinum, filterable trophy list, progress tracking and spoiler-safe browsing.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bg-grid" aria-hidden="true"></div>
+<div class="bg-glow bg-glow--pink" aria-hidden="true"></div>
+<div class="bg-glow bg-glow--teal" aria-hidden="true"></div>
+
+<header class="site-header" id="top">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="34" height="34"><path d="M16 2l3.5 8.5L28 12l-6.5 6 2 9L16 22l-7.5 5 2-9L4 12l8.5-1.5z" fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linejoin="round"/><defs><linearGradient id="g" x1="0" y1="0" x2="32" y2="32"><stop offset="0" stop-color="#ff4d9d"/><stop offset="1" stop-color="#14e0c8"/></linearGradient></defs></svg>
+      </div>
+      <div class="brand-text">
+        <span class="brand-kicker">GRAND THEFT AUTO VI</span>
+        <span class="brand-title">TROPHY GUIDE</span>
+      </div>
+    </div>
+    <div class="header-progress">
+      <div class="hp-row">
+        <span class="hp-label">Overall</span>
+        <span class="hp-value" id="hpValue">0 / 55</span>
+      </div>
+      <div class="hp-track"><div class="hp-fill" id="hpFill"></div></div>
+      <span class="hp-pct" id="hpPct">0%</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- HERO / ROADMAP -->
+  <section class="hero" id="roadmap">
+    <div class="hero-lead">
+      <span class="eyebrow">THE ROAD TO THE PLATINUM</span>
+      <h1>From first<br><span class="accent">heist to <span class="accent-2">100%</span></span></h1>
+      <p class="hero-sub">A curated, phase-by-phase plan to lock in all 55 trophies without wasted hours. Follow the path, tick as you go, and the platinum lands itself.</p>
+      <div class="hero-meta">
+        <div class="meta-stat"><span class="meta-num" id="metaTotal">55</span><span class="meta-cap">Trophies</span></div>
+        <div class="meta-div"></div>
+        <div class="meta-stat"><span class="meta-num" id="metaEarned">0</span><span class="meta-cap">Earned</span></div>
+        <div class="meta-div"></div>
+        <div class="meta-stat"><span class="meta-num" id="metaPct">0%</span><span class="meta-cap">Complete</span></div>
+      </div>
+    </div>
+
+    <div class="roadmap" id="roadmapGrid">
+      <!-- phase cards injected by roadmap.js -->
+    </div>
+  </section>
+
+  <!-- FILTER BAR -->
+  <section class="controls" id="controls">
+    <div class="search">
+      <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="search" type="search" placeholder="Search trophies by name…" autocomplete="off" spellcheck="false" aria-label="Search trophies">
+    </div>
+
+    <div class="seg" role="group" aria-label="Filter by grade" id="gradeFilter">
+      <button class="seg-btn is-active" data-grade="all">All</button>
+      <button class="seg-btn" data-grade="platinum"><span class="dot dot--platinum"></span>Platinum</button>
+      <button class="seg-btn" data-grade="gold"><span class="dot dot--gold"></span>Gold</button>
+      <button class="seg-btn" data-grade="silver"><span class="dot dot--silver"></span>Silver</button>
+      <button class="seg-btn" data-grade="bronze"><span class="dot dot--bronze"></span>Bronze</button>
+    </div>
+
+    <div class="seg" role="group" aria-label="Filter by category" id="catFilter">
+      <button class="seg-btn is-active" data-cat="all">All types</button>
+      <button class="seg-btn" data-cat="story">Story</button>
+      <button class="seg-btn" data-cat="side">Side</button>
+      <button class="seg-btn" data-cat="collectible">Collectibles</button>
+      <button class="seg-btn" data-cat="misc">Misc</button>
+    </div>
+
+    <div class="controls-right">
+      <label class="toggle" title="Show earned / locked">
+        <input type="checkbox" id="earnedToggle">
+        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+        <span class="toggle-label">Earned only</span>
+      </label>
+      <label class="toggle" title="Blur story spoilers">
+        <input type="checkbox" id="spoilerToggle">
+        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+        <span class="toggle-label">Hide spoilers</span>
+      </label>
+      <select id="sort" class="select" aria-label="Sort trophies">
+        <option value="list">Sort: List order</option>
+        <option value="grade">Sort: Grade (high→low)</option>
+        <option value="rarity">Sort: Rarity</option>
+        <option value="name">Sort: Name A–Z</option>
+      </select>
+    </div>
+  </section>
+
+  <div class="results-bar">
+    <span id="resultsCount" class="results-count">Showing 55 trophies</span>
+    <button class="reset-btn" id="resetBtn" type="button">Reset progress</button>
+  </div>
+
+  <!-- TROPHY GRID -->
+  <section class="grid" id="grid" aria-live="polite"></section>
+
+  <footer class="site-foot">
+    <p>An original fan-made guide. Not affiliated with Rockstar Games. All trophy names and descriptions belong to their respective owners.</p>
+    <p class="foot-hint">Tip: click any card to expand the full how-to. Progress and settings are saved locally in your browser.</p>
+  </footer>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
